@@ -1,2 +1,6 @@
-*.csv
-pyviz-examples
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!DRUG_data.ipynb
